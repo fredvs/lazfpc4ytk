@@ -26,4 +26,4 @@ For your projects, in Project options, Custom options add:
 -Fl$(LazarusDir)/ytk_dyn
 -k"-rpath=$ORIGIN/ytk"
 
-For dynamic linking, copy the dir /lazarus/ytk into the root directory of your project.
+For dynamic linking, copy the dir /lazarus/ytk into the root directory of your executable.
