@@ -3,11 +3,15 @@ Lazarus and fpc patched for using ytk widget in place of gtk2.
 The ytk source comes from https://gitlab.com/fifr/fpc/-/tree/ytk?ref_type=heads
 and used by fpc-ootb: https://github.com/fredvs/freepascal-ootb/tree/ytk .
 
-The Lazarus-ytk source comes from https://gitlab.com/fifr/lazarus/-/tree/ytk?ref_type=heads .
+The lazarus-ytk source comes from https://gitlab.com/fifr/lazarus/-/tree/ytk?ref_type=heads .
 
 The binary of ytk-fpc libraries comes from https://gitlab.com/fifr/ytk-fpc and added in Lazarus folder.
 
 Download the release then load startlazarus.
+
+For the fpc source, assign directory path-of/freepascal-ootb-ytk
+
+The fpc source (freepascal-ootb-ytk) are in https://github.com/fredvs/lazfpc4ytk/
 
 In menu Tools/Options/Compiler executable insert:
 
