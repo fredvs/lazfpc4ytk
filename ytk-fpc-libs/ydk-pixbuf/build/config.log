@@ -1,0 +1,10 @@
+# project  configured on Sat Mar  7 16:16:39 2026 by
+# waf 2.0.26 (abi 20, python 30e03f0 on linux)
+# using /home/fifr/test/ytktest/ydk-pixbuf/../waf configure
+#
+----------------------------------------
+Setting top to
+/home/fifr/test/ytktest/ydk-pixbuf
+----------------------------------------
+Setting out to
+/home/fifr/test/ytktest/ydk-pixbuf/build
