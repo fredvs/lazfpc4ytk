@@ -7,11 +7,9 @@ The lazarus-ytk source comes from https://gitlab.com/fifr/lazarus/-/tree/ytk?ref
 
 The binary of ytk-fpc libraries comes from https://gitlab.com/fifr/ytk-fpc and added in Lazarus folder.
 
-Download the release then load startlazarus.
+Download + unip the release (https://github.com/fredvs/lazfpc4ytk/releases) then load /lazarus-ytk/startlazarus.
 
-For the fpc source, assign directory path-of/freepascal-ootb-ytk
-
-The fpc source (freepascal-ootb-ytk) are in https://github.com/fredvs/lazfpc4ytk/
+For the fpc source, assign directory $(LazarusDir)/freepascal-ootb-ytk
 
 In menu Tools/Options/Compiler executable insert:
 
